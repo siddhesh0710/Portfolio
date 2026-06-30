@@ -171,6 +171,7 @@ export default function Hero() {
                   src="/profile.jpg"
                   alt="Siddhesh Tawde"
                   fill
+                  sizes="(max-width: 768px) 260px, (max-width: 1024px) 28vw, 380px"
                   className="object-cover"
                   priority
                 />
